@@ -1,0 +1,7 @@
+/* add custom styles */
+.iris {
+  background-image: url("../resources/splash.jpeg");
+  background-repeat: no-repeat;
+  height: 60vh;
+  background-size: cover;
+}
